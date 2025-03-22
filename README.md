@@ -1,2 +1,1 @@
-# twitter
-Revival of the Twitter.
+# Twitter
